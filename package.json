@@ -1,0 +1,26 @@
+{
+  "author": {
+    "name": "Jonathan Annett",
+    "url": "http://github.com/jonathan-annett",
+    "email": "jonathan.max.annett@gmail.com"
+  },
+  "contributors": [],
+  "description": "newly created repo",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "node . --build",
+    "test": "node . --demo"
+  },
+  "keywords": [
+  ],
+  "main": "index.js",
+  "name": "node-browser-ws-crypto",
+  "repository": {
+    "url": "https://github.com/jonathan-annett/node-browser-ws-crypto",
+    "type": "git"
+  },
+  "version": "0.0.1"
+}
